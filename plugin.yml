@@ -1,10 +1,10 @@
-name: Guardian
+name: LGAC
 main: fr.androlark.guardian.Guardian
 version: SNAP_1b31c
-author: Androlark
+author: ZertixMX
 depend:
   - ProtocolLib
-description: 'Just another anti-cheat plugin.'
+description: 'Anti Cheat Plugin für dein Multi-Netzwerk.'
 
 permissions:
    guardian.immune:
